@@ -1,23 +1,30 @@
 theme: jekyll-theme-minimal
 title: "Lexi Drop – Support"
-description: "Support page for Lexi Drop, a word puzzle game inspired by tile-dropping and word-building games."
 
-support:
-  app_name: "Lexi Drop"
-  tagline: "A word puzzle game inspired by Tetris and Scrabble."
-  description: >
-    Lexi Drop is a fast-paced word puzzle game inspired by classic
-    tile-dropping and word-building games. Build words from falling
-    letter tiles to score points and clear the board.
+# Lexi Drop
 
-  how_to_play: >
-    Letter tiles fall onto the board. Arrange them to form valid words.
-    Longer words and smart placements earn higher scores and multipliers.
+Lexi Drop is a fast-paced word puzzle game inspired by classic
+tile-dropping and word-building games. Form words from falling
+letter tiles to score points and clear the board.
 
-  support_email: "support@lexidropgame.com"
+## How to Play
+Letter tiles fall onto the board. Arrange them to form valid words.
+Using more tiles in a word earns higher scores and point multipliers.
+Clear tiles to keep the board from filling up.
 
-  privacy: >
-    Lexi Drop does not collect personal data. Game progress is stored
-    locally on your device.
+## Need Help?
+If you have questions, feedback, or encounter an issue while playing,
+please contact us:
 
-  copyright: "© 2025 Lexi Drop"
+📧 **support@lexidropgame.com**
+
+We’ll do our best to respond as quickly as possible.
+
+## Privacy
+Lexi Drop does not collect personal data. All game progress is stored
+locally on your device.
+
+---
+
+© 2025 Lexi Drop
+
