@@ -1,33 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lexi Drop – Support</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    h1 {
+      font-size: 2.2em;
+      margin-bottom: 0.2em;
+    }
+    h2 {
+      margin-top: 2em;
+      font-size: 1.4em;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .box {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      margin-top: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Lexi Drop</h1>
+    <p>
+      Lexi Drop is a fast-paced word puzzle game inspired by classic tile-dropping
+      and word-building games. Build words from falling letter tiles to score points
+      and clear the board.
+    </p>
 
+    <div class="box">
+      <h2>How to Play</h2>
+      <p>
+        Letter tiles fall onto the board. Arrange them to form valid words.
+        Longer words and smart placements earn higher scores and multipliers.
+      </p>
+    </div>
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
+    <div class="box">
+      <h2>Need Help or Found a Bug?</h2>
+      <p>
+        If you have questions, feedback, or encounter an issue while playing,
+        please contact us:
+      </p>
+      <p>
+        📧 <a href="mailto:support@lexidropgame.com">support@lexidropgame.com</a>
+      </p>
+      <p>
+        We usually respond within a few days.
+      </p>
+    </div>
 
-## Step 2: Configure your site
+    <div class="box">
+      <h2>Privacy</h2>
+      <p>
+        Lexi Drop does not collect personal data. Any saved game progress
+        is stored locally on your device.
+      </p>
+    </div>
 
-_You turned on GitHub Pages! :tada:_
-
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
-
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
-
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
-
-### :keyboard: Activity: Configure your site
-
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-
+    <footer>
+      © 2025 Lexi Drop
+    </footer>
+  </div>
+</body>
+</html>
